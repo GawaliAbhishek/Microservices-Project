@@ -1,0 +1,9 @@
+.headingUpdate{
+    margin: 2rem;
+}
+.updateContact{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
