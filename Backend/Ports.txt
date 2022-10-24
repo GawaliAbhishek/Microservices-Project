@@ -1,0 +1,5 @@
+user_service Port :8001
+contact_service Port :8003
+hystrix dashboard=1000
+API Gateway = 8080
+Eureka Server=8761
